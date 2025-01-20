@@ -35,3 +35,4 @@ npm run lint
 ```
 # sportfity-sessions-frontend
 # sportfity-sessions-frontend
+# sportfity-vue
